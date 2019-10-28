@@ -19,15 +19,8 @@ args = vars(ap.parse_args())
 # ball in the HSV color space, then initialize the
 # list of tracked points
 
-
-## Added by Deepankar Kotnala
-## ----------------------------------------------------------------------------
-#greenLower = (29, 86, 6)
-#greenUpper = (64, 255, 255)
 blueLower = (110,50,50)
 blueUpper = (130,255,255)
-## ----------------------------------------------------------------------------
-
 
 pts = deque(maxlen=args["buffer"])
  
