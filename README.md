@@ -4,7 +4,7 @@ This app tracks the trajectory of an object in the frame.
 
 Input can be given in the form of a video file or directly through the attached webcam.
 
-````python
+````
 python object_trajectory_tracking.py --video <video-file-name> --buffer <value>
 ````
 
