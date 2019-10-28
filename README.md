@@ -20,5 +20,6 @@ Attributes:
 
 --buffer(optional): The maximum size of the deque (which maintains the length of the trajectory of the object we are tracking)
 
+Here's a demo:
 ![alt text](https://github.com/deepankarkotnala/Object-trajectory-tracking-OpenCV/blob/master/trajectory_tracking.gif)
 
