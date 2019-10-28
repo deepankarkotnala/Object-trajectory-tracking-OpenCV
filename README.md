@@ -19,3 +19,6 @@ Attributes:
 --video(optional): The input video file. If not given, then webcam will be used.
 
 --buffer(optional): The maximum size of the deque (which maintains the length of the trajectory of the object we are tracking)
+
+![alt text](https://github.com/deepankarkotnala/Object-trajectory-tracking-OpenCV/blob/master/trajectory_tracking.gif)
+
